@@ -5,7 +5,7 @@ canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
 const dots = [];
-const numDots = 150;
+const numDots = 120;
 const mouse = { x: null, y: null, radius: 100 };
 
 // Customize colors and line length
