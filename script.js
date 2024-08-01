@@ -5,7 +5,7 @@ canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
 const dots = [];
-const numDots = 150; // how much
+const numDots = 100; // how much
 const mouse = { x: null, y: null, radius: 100 };
 
 
